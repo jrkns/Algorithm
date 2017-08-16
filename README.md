@@ -3,6 +3,9 @@
 Welcome to my algorithm collections :D
 Based on Python!
 
+## Sorting Algorithm
+- Coming Soon!
+
 ## Graph Theory
 - [test_link](https://github.com/jrkns): Just test link.
 
