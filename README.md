@@ -3,11 +3,11 @@
 Welcome to my algorithm collections based on Python!
 
 ## Sorting Algorithm
-- [bubble_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/bubble.py): Bubble Sort
-- [insertion_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/insertion.py): Insertion Sort
-- [merge_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/merge.py): Merge Sort
-- [quick_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/quick.py): Quick Sort
-- [selection_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/selection.py): selection Sort
+- [bubble_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/bubble.py): Complexity O(n^2)
+- [insertion_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/insertion.py): Complexity O(n^2)
+- [merge_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/merge.py): Complexity O(n^2)
+- [quick_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/quick.py): Complexity O(n^2)
+- [selection_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/selection.py): Complexity O(n^2)
 
 ## Graph Theory
 - Coming Soon!
