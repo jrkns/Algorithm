@@ -10,7 +10,8 @@ Welcome to my algorithm collections based on Python!
 - [selection_sort](https://github.com/jrkns/Algorithm/blob/master/sorting/selection.py): Complexity O(n^2)
 
 ## Graph Theory
-- Coming Soon!
+- [dfs](https://github.com/jrkns/Algorithm/blob/master/graph/dfs.py): Depth First Search
+- [bfs](https://github.com/jrkns/Algorithm/blob/master/graph/bfs.py): Breadth First Search
 
 ## Greedy Algorithm
 - Coming Soon!
