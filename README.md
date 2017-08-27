@@ -23,8 +23,10 @@ Welcome to my algorithm collections based on Python!
 - Coming Soon!
 
 ## P Problems
-- [tj_a1_blacklists](https://github.com/jrkns/Algorithm/blob/master/techjam/tj_a1_blacklists.py): Checking 1-operation changed.
+- [tj_a1_blacklists](https://github.com/jrkns/Algorithm/blob/master/techjam/tj_a1_blacklists.py): Checking 1-edited Distance
 - [tj_a2_fraud](https://github.com/jrkns/Algorithm/blob/master/techjam/tj_a2_fraud.py): Breadth-First Search Application
+- [tj_f4_sheep](https://github.com/jrkns/Algorithm/blob/master/techjam/tj_f4_sheep.py): Packing Problems
+- [tj_f5_promotion](https://github.com/jrkns/Algorithm/blob/master/techjam/tj_f5_promotion.py): Dyniamic-Prog (Bottom-Up)
 
 ## NP Problems
 - Coming Soon!
